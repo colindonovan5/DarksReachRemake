@@ -1,0 +1,19 @@
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\bin\Debug\DarksReachRemake.exe.config
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\bin\Debug\DarksReachRemake.exe
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\bin\Debug\DarksReachRemake.pdb
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\obj\Debug\DarksReachRemake.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\obj\Debug\DarksReachRemake.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\obj\Debug\DarksReachRemake.exe
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\obj\Debug\DarksReachRemake.pdb
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\obj\Debug\DarksReachRemake.DarksReachForm.resources
+C:\Users\user\Documents\Visual Studio 2015\TheNewBostonTutorial\DarksReachRemake\obj\Debug\DarksReachRemake.csprojResolveAssemblyReference.cache
+C:\Users\pokef\Desktop\DarksReachRemake\bin\Debug\DarksReachRemake.exe.config
+C:\Users\pokef\Desktop\DarksReachRemake\bin\Debug\DarksReachRemake.exe
+C:\Users\pokef\Desktop\DarksReachRemake\bin\Debug\DarksReachRemake.pdb
+C:\Users\pokef\Desktop\DarksReachRemake\obj\Debug\DarksReachRemake.csprojAssemblyReference.cache
+C:\Users\pokef\Desktop\DarksReachRemake\obj\Debug\DarksReachRemake.DarksReachForm.resources
+C:\Users\pokef\Desktop\DarksReachRemake\obj\Debug\DarksReachRemake.Properties.Resources.resources
+C:\Users\pokef\Desktop\DarksReachRemake\obj\Debug\DarksReachRemake.csproj.GenerateResource.cache
+C:\Users\pokef\Desktop\DarksReachRemake\obj\Debug\DarksReachRemake.csproj.CoreCompileInputs.cache
+C:\Users\pokef\Desktop\DarksReachRemake\obj\Debug\DarksReachRemake.exe
+C:\Users\pokef\Desktop\DarksReachRemake\obj\Debug\DarksReachRemake.pdb
